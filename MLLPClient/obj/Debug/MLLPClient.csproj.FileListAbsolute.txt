@@ -1,0 +1,8 @@
+C:\Users\ali4728\source\repos\MLLPClient\MLLPClient\bin\Debug\MLLPClient.exe.config
+C:\Users\ali4728\source\repos\MLLPClient\MLLPClient\bin\Debug\MLLPClient.exe
+C:\Users\ali4728\source\repos\MLLPClient\MLLPClient\bin\Debug\MLLPClient.pdb
+C:\Users\ali4728\source\repos\MLLPClient\MLLPClient\obj\Debug\MLLPClient.csproj.AssemblyReference.cache
+C:\Users\ali4728\source\repos\MLLPClient\MLLPClient\obj\Debug\MLLPClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\ali4728\source\repos\MLLPClient\MLLPClient\obj\Debug\MLLPClient.csproj.CoreCompileInputs.cache
+C:\Users\ali4728\source\repos\MLLPClient\MLLPClient\obj\Debug\MLLPClient.exe
+C:\Users\ali4728\source\repos\MLLPClient\MLLPClient\obj\Debug\MLLPClient.pdb
